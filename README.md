@@ -1,2 +1,2 @@
 # Food-Delivery-Website
-To learn FSD.
+To learn full stack development.
